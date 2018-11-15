@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication53/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication53/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/WpfApplication53/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfApplication53/MainWindow.xaml))
+<!-- default file list end -->
 # CellTemplate with different colors for Ordinary, Total, Selected(Focused) cells
 
 
