@@ -3,17 +3,20 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2509)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
+# Pivot Grid for WPF - Customize CellTemplate with Different Colors
+
+This example demonstartes how to create a custom [PivotGridField.CellTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridField.CellTemplate) that uses different colors for different cell types (Ordinary cells, Total cells, Selected cells).
+
+You can use the [PivotGridControl.CustomValueAppearance](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.CustomValueAppearance) and  [PivotGridControl.CustomCellAppearance](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.CustomCellAppearance) events to additionally customize Field Value and Cell appearance.  
+
+<!-- default file list -->
+## Files to Look at 
 * [MainWindow.xaml](./CS/WpfApplication53/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication53/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/WpfApplication53/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication53/MainWindow.xaml.vb))
 <!-- default file list end -->
-# CellTemplate with different colors for Ordinary, Total, Selected(Focused) cells
 
+## Documantation
 
-<p>This example demonstrates how to create a custom <a href="http://documentation.devexpress.com/#WPF/DevExpressXpfPivotGridPivotGridField_CellTemplatetopic">PivotGridField.CellTemplate</a> that uses different colors for different cell types (Ordinary cells, Total cells, Selected cells)<br /><br />BTW: In addition, it is possible to customize Field Value and Cell appearance using the <a href="https://documentation.devexpress.com/#wpf/DevExpressXpfPivotGridPivotGridControl_CustomValueAppearancetopic">CustomValueAppearance</a> and <a href="https://documentation.devexpress.com/#WPF/DevExpressXpfPivotGridPivotGridControl_CustomCellAppearancetopic">CustomCellAppearance </a>events. </p>
-
-<br/>
-
-
+- [Cell](https://docs.devexpress.com/WPF/7984/controls-and-libraries/pivot-grid/ui-elements/cell)
+- [PivotGridField](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridField)
