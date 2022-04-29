@@ -8,7 +8,7 @@
 
 This example demonstartes how to create a custom [PivotGridField.CellTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridField.CellTemplate) that uses different colors for different cell types (Ordinary cells, Total cells, Selected cells).
 
-You can use the [PivotGridControl.CustomValueAppearance](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.CustomValueAppearance) and  [PivotGridControl.CustomCellAppearance](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.CustomCellAppearance) events to additionally customize Field Value and Cell appearance.  
+You can use the [PivotGridControl.CustomValueAppearance](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.CustomValueAppearance) and  [PivotGridControl.CustomCellAppearance](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.CustomCellAppearance) events to additionally customize Field Value and Cell appearances.  
 
 <!-- default file list -->
 ## Files to Look at 
