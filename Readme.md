@@ -16,7 +16,7 @@ You can use the [PivotGridControl.CustomValueAppearance](https://docs.devexpress
 * [MainWindow.xaml.cs](./CS/WpfApplication53/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication53/MainWindow.xaml.vb))
 <!-- default file list end -->
 
-## Documantation
+## Documentation
 
 - [Cell](https://docs.devexpress.com/WPF/7984/controls-and-libraries/pivot-grid/ui-elements/cell)
 - [PivotGridField](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridField)
