@@ -12,7 +12,7 @@ This example demonstrates how to create a custom [PivotGridField.CellTemplate](h
 You can use the [PivotGridControl.CustomValueAppearance](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.CustomValueAppearance) and  [PivotGridControl.CustomCellAppearance](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.CustomCellAppearance) events to additionally customize Field Value and Cell appearances.  
 
 <!-- default file list -->
-## Files to Look at 
+## Files to Review
 * [MainWindow.xaml](./CS/WpfApplication53/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication53/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/WpfApplication53/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication53/MainWindow.xaml.vb))
 <!-- default file list end -->
