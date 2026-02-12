@@ -23,7 +23,7 @@ You can use the [PivotGridControl.CustomValueAppearance](https://docs.devexpress
 - [Cell](https://docs.devexpress.com/WPF/7984/controls-and-libraries/pivot-grid/ui-elements/cell)
 - [PivotGridField](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridField)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pivot-grid-for-wpf-customize-cell-template&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pivot-grid-for-wpf-customize-cell-template&~~~was_helpful=no)
 
